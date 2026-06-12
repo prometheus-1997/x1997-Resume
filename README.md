@@ -14,10 +14,14 @@ Most resume builders lock features behind paywalls, require account creation, co
 
 **x1997 takes the opposite approach.**
 
-✅ Open the app
-✅ Enter your details
-✅ Customize your design
-✅ Export a clean ATS-friendly PDF
+* ✅ Open the app
+
+* ✅ Enter your details
+
+* ✅ Customize your design
+
+* ✅ Export a clean ATS-friendly PDF
+
 
 That's it.
 
