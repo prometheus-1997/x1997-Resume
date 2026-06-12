@@ -59,7 +59,7 @@ Pull requests and feature suggestions are always welcome!
 
 If this project helped you land your dream job or save time, consider supporting its development! 
 
-*(Donation link coming soon!)*
+* **USDT Wallet** (BEP20) - 0xcc621214e5f733dd89dda5c25c6cbf462d97032b
 
 ---
 
