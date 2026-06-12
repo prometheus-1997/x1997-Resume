@@ -17,9 +17,13 @@ Many resume builders require sign-ups, lock exports behind subscriptions, collec
 **x1997 takes a different approach.**
 
 ✅ Open the app
+
 ✅ Enter your information
+
 ✅ Customize your design
+
 ✅ Export an ATS-friendly PDF
+
 
 That's it.
 
