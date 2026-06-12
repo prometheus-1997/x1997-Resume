@@ -1,27 +1,25 @@
 # 🚀 x1997 Resume Builder
 
-A modern, privacy-first, ATS-focused resume builder designed for one purpose: helping you create professional resumes that actually get through Applicant Tracking Systems.
+A modern, privacy-first, ATS-focused resume builder built for one purpose:
 
-No accounts. No subscriptions. No unnecessary complexity.
+**Creating professional resumes that recruiters and Applicant Tracking Systems can actually read.**
 
-Just launch and build.
+No accounts. No subscriptions. No paywalls.
+
+Just open, build, export.
 
 ---
 
 ## ✨ Why x1997?
 
-Most resume builders lock features behind paywalls, require account creation, collect personal information, or generate ATS-unfriendly PDFs.
+Many resume builders require sign-ups, lock exports behind subscriptions, collect user data, or generate PDFs that ATS software struggles to parse.
 
-**x1997 takes the opposite approach.**
+**x1997 takes a different approach.**
 
-* ✅ Open the app
-
-* ✅ Enter your details
-
-* ✅ Customize your design
-
-* ✅ Export a clean ATS-friendly PDF
-
+✅ Open the app
+✅ Enter your information
+✅ Customize your design
+✅ Export an ATS-friendly PDF
 
 That's it.
 
@@ -31,60 +29,63 @@ That's it.
 
 ### 🔒 Privacy First
 
+Your resume data stays on your device.
+
 * No Login
 * No Sign Up
 * No Credit Card Required
+* No Cloud Sync
 * No User Tracking
 * No Personal Data Collection
-* No Cloud Storage
-
-Everything stays on your device.
 
 ---
 
 ### 🤖 ATS-Friendly PDF Export
 
-Unlike many builders that export resumes as images or canvas snapshots, x1997 generates clean, text-readable PDFs through native browser printing.
+x1997 uses native browser printing to generate clean, text-based PDFs.
 
-This ensures:
+Unlike image-based exports, text remains machine-readable for Applicant Tracking Systems.
+
+Benefits:
 
 * Better ATS compatibility
-* Searchable text
-* Proper keyword detection
-* Improved parsing accuracy
+* Searchable PDFs
+* Proper text extraction
+* Improved keyword recognition
 
 ---
 
 ### 🎨 8 Professional Templates
 
-Choose from multiple ATS-friendly resume styles:
+Switch between professionally designed resume layouts instantly.
+
+Templates include:
 
 * Harvard Classic
 * Executive
 * Corporate
-* Modern
+* Harvard
 * Creative
-* Minimal
-* Professional
-* Compact
+* Minimalist
+* Standford
+* Apex
 
-Switch templates instantly without re-entering information.
+No copy-pasting. No rebuilding.
 
 ---
 
-### 🖱️ Drag & Drop Sections
+### 🖱️ Advanced Drag & Drop
 
-Enable Advanced Mode and:
+Enable Advanced Mode to:
 
-* Reorder sections
-* Customize layout flow
-* Build resumes exactly how you want
+* Reorder resume Header sections
+* Customize resume structure
 
 ---
 
 ### 🔤 Deep Customization
 
-Fine-tune every detail:
+Fine-tune your resume exactly how you want it.
 
 * 10+ Typography Themes
 * Adjustable Heading Sizes
@@ -100,90 +101,116 @@ Fine-tune every detail:
 
 ### 📱 Mobile Optimized
 
-Create and edit resumes directly from your phone.
+Build resumes directly from your phone.
 
 Designed for:
 
 * Touch devices
 * Small screens
-* Fast editing on the go
+* Responsive editing
+* Mobile-first workflows
 
 ---
 
-### 💾 Auto Save
+### 💾 Automatic Saving
 
-Your progress is automatically saved locally.
+Progress is automatically saved locally in your browser.
 
-Close the browser and return later without losing work.
+Close the tab and continue later without losing your work.
 
 ---
 
-### ⚡ Install as a PWA
+### ⚡ Progressive Web App (PWA)
 
-Add x1997 directly to your device.
+Install x1997 directly on your device.
 
 Benefits:
 
-* Works offline
-* Fast startup
-* Native-app experience
-* No app store required
+* Offline Access
+* Faster Launch Times
+* Native App Experience
+* No App Store Required
 
 ---
 
-# 🏆 x1997 vs Traditional Resume Builders
+# 🏆 x1997 vs Typical Resume Builders
 
-| Feature                    | 🚀 x1997 | 🏢 Typical Resume Builders |
-| -------------------------- | -------- | -------------------------- |
-| No Login Required          | ✅        | ❌                          |
-| No Sign Up Required        | ✅        | ❌                          |
-| No Credit Card Required    | ✅        | ❌                          |
-| Free Resume Creation       | ✅        | ⚠️ Often Limited           |
-| Local Data Storage         | ✅        | ❌                          |
-| User Tracking              | ❌        | ✅ Often                    |
-| ATS-Friendly Export        | ✅        | ⚠️ Varies                  |
-| Mobile Optimized           | ✅        | ⚠️ Sometimes               |
-| Works Offline              | ✅        | ❌                          |
-| PWA Support                | ✅        | ❌                          |
-| Instant Template Switching | ✅        | ⚠️ Limited                 |
+| Feature                    | 🚀 x1997 | 🏢 Typical Builders |
+| -------------------------- | -------- | ------------------- |
+| No Login Required          | ✅        | ❌                   |
+| No Sign Up Required        | ✅        | ❌                   |
+| No Credit Card Required    | ✅        | ❌                   |
+| Local-Only Storage         | ✅        | ❌                   |
+| User Tracking              | ❌        | Often ✅             |
+| ATS-Focused Design         | ✅        | Varies ⚠️           |
+| Mobile Friendly            | ✅        | Varies ⚠️           |
+| Works Offline              | ✅        | ❌                   |
+| PWA Support                | ✅        | Rare ⚠️             |
+| Instant Template Switching | ✅        | Limited ⚠️          |
 
 ---
-🚀 Quick Start
-* Download or clone this repository.
-Open dist/index.html in your modern web browser (Chrome or Edge recommended).
-Start typing in the sidebar and watch the live preview update instantly.
-Click Design to tweak the aesthetic to your liking.
-Click Download PDF.
 
-💡 Note: Ensure you disable "Headers and footers" in the browser print dialog for a clean, professional document.
+# 🚀 Quick Start
 
-**🛠️ Building from Source**
-This project uses a custom Node.js build script to minify and obfuscate assets.
+1. Download or clone this repository.
+2. Open `dist/index.html` in a modern browser.
+3. Enter your information.
+4. Customize the design and layout.
+5. Export your PDF.
 
-Make sure you have Node.js installed, then run:
+💡 **Tip:** Disable browser "Headers and Footers" during printing for the cleanest output.
 
+---
+
+# 🛠️ Building From Source
+
+This project uses a custom Node.js build pipeline.
+
+Requirements:
+
+* Node.js
+
+Build:
+
+```bash
 node build.js
-The compiled, production-ready assets will be placed in the dist folder.
+```
 
-**🤝 Contributing**
-Pull requests and feature suggestions are always welcome!
+Production-ready files will be generated inside the `dist/` directory.
 
-Important: Ensure that any layout or CSS changes are rigorously tested against window.print(). We prioritize strict text extractability for ATS compliance over complex DOM layouts.
+---
 
-**❤️ Support & Donate**
-If this project helped you land your dream job or save time, consider supporting its development!
+# 🤝 Contributing
 
-**USDT Wallet (BEP20)** - 0xcc621214e5f733dd89dda5c25c6cbf462d97032b
+Pull requests, bug reports, and feature suggestions are welcome.
 
+When contributing, remember:
 
+**ATS compatibility takes priority over visual complexity.**
+
+Any layout changes should be thoroughly tested using native browser printing and text extraction.
+
+---
+
+# ❤️ Support Development
+
+If x1997 helped you save time, improve your resume, or land interviews, consider supporting development.
+
+### USDT (BEP20)
+
+```text
+0xcc621214e5f733dd89dda5c25c6cbf462d97032b
+```
+
+---
 
 # 🔐 Privacy Policy
 
-## What Data Do We Collect?
+## What Data Is Collected?
 
 **None.**
 
-x1997 does not collect, store, transmit, sell, rent, analyze, or share your personal information.
+x1997 does not collect, store, transmit, analyze, sell, rent, or share personal information.
 
 No:
 
@@ -193,7 +220,7 @@ No:
 * Resume Content
 * Payment Information
 * Credit Card Information
-* Account Information
+* Account Data
 
 Because there are no accounts.
 
@@ -201,9 +228,9 @@ Because there are no accounts.
 
 ## Where Is My Data Stored?
 
-Your resume data is stored locally inside your browser using local storage.
+All resume data is stored locally inside your browser.
 
-Your information remains under your control and never leaves your device.
+Your information never leaves your device unless you choose to export or share it yourself.
 
 ---
 
@@ -211,13 +238,10 @@ Your information remains under your control and never leaves your device.
 
 No.
 
-No analytics platforms.
-
-No behavioral tracking.
-
-No advertising trackers.
-
-No fingerprinting.
+* No Analytics Platforms
+* No Behavioral Tracking
+* No Advertising Trackers
+* No Browser Fingerprinting
 
 ---
 
@@ -233,7 +257,7 @@ There is no user data to share.
 
 Yes.
 
-Since all information is stored locally on your device, clearing browser storage will permanently remove all saved resume data.
+Clearing your browser storage will permanently remove all locally saved resume data.
 
 ---
 
@@ -243,19 +267,26 @@ Build resumes.
 
 Not user profiles.
 
-Not tracking databases.
+Not tracking systems.
 
 Not subscription funnels.
 
-Just a fast, private, ATS-friendly resume builder that respects your time and your data.
-
-**📄 License**
-Copyright (c) 2026 Prometheus-1997. All Rights Reserved.
-
-This software is proprietary and closed-source. You may not copy, modify, distribute, sell, or reverse engineer any part of this code. See the LICENSE.md file for full details.
+Just a fast, private, ATS-focused resume builder that respects your time and your data.
 
 ---
 
-© 2026 x1997 Resume Builder
+# 📄 License
 
-Built for job seekers, not data collectors.
+Copyright © 2026 Prometheus-1997
+
+All Rights Reserved.
+
+This software is proprietary and closed-source.
+
+You may not copy, modify, redistribute, sublicense, sell, or reverse engineer any portion of the source code without explicit written permission.
+
+See `LICENSE.md` for full licensing terms.
+
+---
+
+### Built for job seekers, not data collectors.
