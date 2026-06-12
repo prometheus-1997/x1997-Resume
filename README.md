@@ -148,6 +148,34 @@ Benefits:
 | Instant Template Switching | ✅        | ⚠️ Limited                 |
 
 ---
+🚀 Quick Start
+* Download or clone this repository.
+Open dist/index.html in your modern web browser (Chrome or Edge recommended).
+Start typing in the sidebar and watch the live preview update instantly.
+Click Design to tweak the aesthetic to your liking.
+Click Download PDF.
+
+💡 Note: Ensure you disable "Headers and footers" in the browser print dialog for a clean, professional document.
+
+**🛠️ Building from Source**
+This project uses a custom Node.js build script to minify and obfuscate assets.
+
+Make sure you have Node.js installed, then run:
+
+node build.js
+The compiled, production-ready assets will be placed in the dist folder.
+
+**🤝 Contributing**
+Pull requests and feature suggestions are always welcome!
+
+Important: Ensure that any layout or CSS changes are rigorously tested against window.print(). We prioritize strict text extractability for ATS compliance over complex DOM layouts.
+
+**❤️ Support & Donate**
+If this project helped you land your dream job or save time, consider supporting its development!
+
+**USDT Wallet (BEP20)** - 0xcc621214e5f733dd89dda5c25c6cbf462d97032b
+
+
 
 # 🔐 Privacy Policy
 
@@ -220,6 +248,11 @@ Not tracking databases.
 Not subscription funnels.
 
 Just a fast, private, ATS-friendly resume builder that respects your time and your data.
+
+**📄 License**
+Copyright (c) 2026 Prometheus-1997. All Rights Reserved.
+
+This software is proprietary and closed-source. You may not copy, modify, distribute, sell, or reverse engineer any part of this code. See the LICENSE.md file for full details.
 
 ---
 
